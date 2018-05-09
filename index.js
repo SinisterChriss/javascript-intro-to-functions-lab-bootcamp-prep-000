@@ -28,6 +28,12 @@ function logShout(string){
 }
 // correct
 
+function logWhisper(string){
+  lowercase = string.toLowerCase()
+  string = uppercase;
+  console.log(lowercase)
+}
+
 function sayHiToGrandma(string) {
   console.log("HELLO!")
 }
