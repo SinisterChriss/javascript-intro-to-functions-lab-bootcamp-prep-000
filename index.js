@@ -21,6 +21,12 @@ function whisper(string) {
 }
 // correct
 
+function logShout(string){
+  uppercase = string.toUpperCase()
+  string = uppercase;
+  console.log(uppercase)
+}
+
 function sayHiToGrandma(string) {
   console.log("HELLO!")
 }
