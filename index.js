@@ -26,6 +26,7 @@ function logShout(string){
   string = uppercase;
   console.log(uppercase)
 }
+// correct
 
 function sayHiToGrandma(string) {
   console.log("HELLO!")
